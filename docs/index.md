@@ -1,4 +1,3 @@
-{% capture readme %} {{site.github.repository_url}}.README.md {% endcapture %}
+# XRVCO
 
-{{ readme }}
-{% include readme %}
+This is still in development.
